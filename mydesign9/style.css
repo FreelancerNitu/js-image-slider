@@ -1,0 +1,26 @@
+div {
+    text-align: center;
+    margin: 50px;
+    background: linear-gradient( #2fa574b3, #00ff14);
+    overflow: hidden;
+    border-radius: 10px;
+}
+div button {
+    background: black;
+    color: #fff;
+    padding: 5px 15px;
+    border: none;
+    border-radius: 3px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+div img {
+    margin: 10px;
+    box-shadow: 1px 2px 17px 6px #fff;
+    transition: .4s;
+    cursor: pointer;
+  
+}
+div img:hover{
+    transform: scale(1.1);
+}
